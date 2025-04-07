@@ -1,0 +1,1 @@
+My completed test project for consideration at InfraTie. Thank you for the opportunity to learn some Django with this little project! It was very fun to get familiar with and is probably my favorite framework I've worked with so far. 
