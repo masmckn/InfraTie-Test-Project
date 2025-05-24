@@ -1,3 +1,1 @@
-My completed test project for consideration at InfraTie. Thank you for the opportunity to learn some Django with this little project! It was very fun to get familiar with and is probably my favorite framework I've worked with so far. 
-
-Also worth noting that my migrations folders are rough! Probably the part of getting used to Django that confused me the most at first, and there was certainly some trial and error with getting them right.
+My completed test project for consideration at InfraTie. Consists of basic front-end and back-end demonstrations including a login page and some interactive SQL querying to a local MySQL database. My first work with Django!
